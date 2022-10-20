@@ -31,3 +31,7 @@
   line-height: 1.2;
   text-decoration: none;
 }
+
+.header__lang-link_active {
+  border-bottom: 2px solid white;
+}
