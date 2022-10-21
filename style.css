@@ -3,12 +3,14 @@
 
 .page {
   background-color: #2a2c2f;
+  font-family: "Inter";
 }
 
 .header {
   padding: 0 15px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .header__logo {
@@ -17,6 +19,7 @@
 }
 
 .header__lang-links {
+  margin: 0;
   padding: 0;
   list-style: none;
   display: flex;
@@ -25,7 +28,6 @@
 
 .header__lang-link {
   color: #ffffff;
-  font-family: "Inter";
   font-weight: 400;
   font-size: 24px;
   line-height: 1.15;
@@ -43,7 +45,7 @@
 }
 
 .lead__tittle {
-  font-family: "Inter";
+  margin: 0;
   font-weight: 900;
   font-size: 96px;
   line-height: 1.05;
@@ -52,9 +54,9 @@
 }
 
 .lead__subtitle {
-  font-family: "Inter";
-  font-style: normal;
+  margin: 0;
   font-weight: 400;
   font-size: 30px;
-  line-height: 36px;
+  line-height: 1.2;
+  color: #ffffff;
 }
