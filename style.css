@@ -43,10 +43,18 @@
 }
 
 .lead__tittle {
-  font-family: "Inter-Black";
+  font-family: "Inter";
   font-weight: 900;
   font-size: 96px;
   line-height: 1.05;
   color: #ffffff;
   text-align: center;
+}
+
+.lead__subtitle {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
 }
