@@ -28,7 +28,7 @@
   font-family: "Inter";
   font-weight: 400;
   font-size: 24px;
-  line-height: 1.2;
+  line-height: 1.15;
   text-decoration: none;
 }
 
@@ -36,7 +36,17 @@
   border-bottom: 2px solid white;
 }
 
-
 .lead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+.lead__tittle {
+  font-family: "Inter-Black";
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 1.05;
+  color: #ffffff;
+  text-align: center;
 }
