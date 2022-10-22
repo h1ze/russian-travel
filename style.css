@@ -6,37 +6,10 @@
   font-family: "Inter";
 }
 
-.header {
-  padding: 0 5%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
-.header__logo {
-  width: 176px;
-  height: 52px;
-}
 
-.header__lang-links {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  gap: 18px;
-}
 
-.header__lang-link {
-  color: #ffffff;
-  font-weight: 400;
-  font-size: 24px;
-  line-height: 1.15;
-  text-decoration: none;
-}
 
-.header__lang-link_active {
-  border-bottom: 2px solid white;
-}
 
 .lead {
   display: flex;
