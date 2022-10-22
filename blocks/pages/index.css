@@ -1,4 +1,9 @@
 @import url("../../vendor/normalize.css");
 @import url("../../vendor/fonts/fonts.css");
 
+@import url("../page/page.css");
 @import url("../header/header.css");
+@import url("../header/__logo/header__logo.css");
+@import url("../header/__lang-links/header__lang-links.css");
+@import url("../header/__lang-link/header__lang-link.css");
+@import url("../header/__lang-link/_active/header__lang-link_active.css");
