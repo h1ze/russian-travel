@@ -1,0 +1,11 @@
+.cover__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 740px;
+  color: #fff;
+  text-decoration: none;
+  box-sizing: border-box;
+  padding: 20px;
+}

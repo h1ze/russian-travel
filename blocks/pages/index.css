@@ -3,8 +3,15 @@
 
 @import url("../page/page.css");
 @import url("../page/__header/page__header.css");
+@import url("../page/__content/page__content.css");
+
 @import url("../header/header.css");
 @import url("../header/__logo/header__logo.css");
 @import url("../header/__lang-links/header__lang-links.css");
 @import url("../header/__lang-link/header__lang-link.css");
 @import url("../header/__lang-link/_active/header__lang-link_active.css");
+
+@import url("../content/content.css");
+@import url("../content/__section/content__section.css");
+
+@import url("../cover/__item/cover__item.css");
