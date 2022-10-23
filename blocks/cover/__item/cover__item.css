@@ -8,4 +8,8 @@
   text-decoration: none;
   box-sizing: border-box;
   padding: 20px;
+  background-image: url("../../../images/cover-trains.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
