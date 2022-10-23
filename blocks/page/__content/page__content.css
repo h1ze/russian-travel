@@ -2,3 +2,22 @@
   margin-top: 53px;
   margin-bottom: 92px;
 }
+
+@media screen and (max-width: 1152px) {
+  .page__content {
+    margin-top: 45px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .page__content {
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .page__content {
+    margin-top: 45px;
+    margin-bottom: 64px;
+  }
+}
