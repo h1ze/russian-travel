@@ -16,6 +16,24 @@
   z-index: 1;
 }
 
+@media screen and (max-width: 1152px) {
+  .cover__item {
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .cover__item {
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .cover__item {
+    min-height: 200px;
+  }
+}
+
 .cover__item::before {
   content: "";
   background-color: #2a2c2f;
