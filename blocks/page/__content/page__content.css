@@ -1,11 +1,11 @@
 .page__content {
-  margin-top: 53px;
+  margin-top: 28px;
   margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1152px) {
   .page__content {
-    margin-top: 45px;
+    margin-top: 24px;
   }
 }
 
@@ -17,7 +17,6 @@
 
 @media screen and (max-width: 568px) {
   .page__content {
-    margin-top: 45px;
     margin-bottom: 64px;
   }
 }
