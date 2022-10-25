@@ -24,6 +24,7 @@
 @import url("../intro/intro.css");
 @import url("../intro/__title/intro__title.css");
 @import url("../intro/__text/intro__text.css");
+@import url("../intro/__list/intro__list.css");
 
 @import url("../cover/__item/cover__item.css");
 @import url("../cover/__title/cover__title.css");
