@@ -12,7 +12,7 @@
   }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 1015px) {
   .lead__image {
     width: 768px;
     height: 480px;
@@ -20,7 +20,9 @@
 }
 
 @media screen and (max-width: 568px) {
-  .cover__item {
-    min-height: 200px;
+  .lead__image {
+    margin: 20px 0 0;
+    width: 320px;
+    height: 200px;
   }
 }
