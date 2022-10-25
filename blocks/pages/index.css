@@ -21,6 +21,10 @@
 @import url("../lead/__image/lead__image.css");
 @import url("../lead/__caption/lead__caption.css");
 
+@import url("../intro/intro.css");
+@import url("../intro/__title/intro__title.css");
+@import url("../intro/__text/intro__text.css");
+
 @import url("../cover/__item/cover__item.css");
 @import url("../cover/__title/cover__title.css");
 @import url("../cover/__subtitle/cover__subtitle.css");
