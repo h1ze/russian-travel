@@ -1,0 +1,9 @@
+.content__section_padding_s {
+  padding: 0 48px;
+}
+
+@media screen and (max-width: 1152px) {
+  .content__section_padding_s {
+    padding: 0;
+  }
+}
