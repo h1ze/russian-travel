@@ -1,4 +1,4 @@
-.lead__image {
+/* .lead__image {
   margin: 32px 0 0;
   width: 984px;
   height: 615px;
@@ -25,4 +25,10 @@
     width: 320px;
     height: 200px;
   }
+} */
+
+.lead__image {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
 }
