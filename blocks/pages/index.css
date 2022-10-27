@@ -36,6 +36,16 @@
 @import url("../photo-grid/__list/photo-grid__list.css");
 @import url("../photo-grid/__item/photo-grid__item.css");
 
+@import url("../places/places.css");
+@import url("../places/__list/places__list.css");
+@import url("../place/place.css");
+@import url("../place/__title/place__title.css");
+@import url("../place/__image/place__image.css");
+@import url("../place/__website/place__website.css");
+@import url("../place/__website-heading/place__website-heading.css");
+@import url("../place/__link/place__link.css");
+@import url("../place/__paragraph/place__paragraph.css");
+
 @import url("../cover/__item/cover__item.css");
 @import url("../cover/__title/cover__title.css");
 @import url("../cover/__subtitle/cover__subtitle.css");
