@@ -4,6 +4,7 @@
 @import url("../page/page.css");
 @import url("../page/__header/page__header.css");
 @import url("../page/__content/page__content.css");
+@import url("../page/__footer/page__footer.css");
 
 @import url("../header/header.css");
 @import url("../header/__logo/header__logo.css");
