@@ -14,6 +14,7 @@
 @import url("../content/content.css");
 @import url("../content/__section/content__section.css");
 @import url("../content/__section/_padding_l/content__section_padding_l.css");
+@import url("../content/__section/_padding_m/content_section_padding_m.css");
 @import url("../content/__section/_padding_s/content__section_padding_s.css");
 
 @import url("../lead/lead.css");
@@ -29,6 +30,10 @@
 @import url("../intro/__list/intro__list.css");
 @import url("../intro/__key/intro__key.css");
 @import url("../intro/__value/intro__value.css");
+
+@import url("../photo-grid/photo-grid.css");
+@import url("../photo-grid/__list/photo-grid__list.css");
+@import url("../photo-grid/__item/photo-grid__item.css");
 
 @import url("../cover/__item/cover__item.css");
 @import url("../cover/__title/cover__title.css");
