@@ -38,3 +38,8 @@
 @import url("../cover/__item/cover__item.css");
 @import url("../cover/__title/cover__title.css");
 @import url("../cover/__subtitle/cover__subtitle.css");
+
+@import url("../footer/footer.css");
+@import url("../footer/__links/footer__links.css");
+@import url("../footer/__link/footer__link.css");
+@import url("../footer/__copyright/footer____copyright.css");
