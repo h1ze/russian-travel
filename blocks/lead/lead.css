@@ -3,4 +3,6 @@
   flex-direction: column;
   align-items: center;
   max-width: 984px;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
 }
