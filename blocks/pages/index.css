@@ -14,10 +14,10 @@
 
 @import url("../content/content.css");
 @import url("../content/__section/content__section.css");
-@import url("../content/__section/_padding_l/content__section_padding_l.css");
-@import url("../content/__section/_padding_m/content_section_padding_m.css");
-@import url("../content/__section/_padding_s/content__section_padding_s.css");
-@import url("../content/__section/_padding_places/content__section_padding_places.css");
+@import url("../content/__section/_padding/content__section_padding_l.css");
+@import url("../content/__section/_padding/content_section_padding_m.css");
+@import url("../content/__section/_padding/content__section_padding_s.css");
+@import url("../content/__section/_padding/content__section_padding_places.css");
 
 @import url("../lead/lead.css");
 @import url("../lead/__title/lead__title.css");
