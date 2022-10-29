@@ -20,6 +20,7 @@
 @import url("../blocks/content/__section/_padding/content_section_padding_m.css");
 @import url("../blocks/content/__section/_padding/content__section_padding_s.css");
 @import url("../blocks/content/__section/_padding/content__section_padding_places.css");
+@import url("../blocks/content/__section/_padding/content__section_padding_lead.css");
 
 @import url("../blocks/lead/lead.css");
 @import url("../blocks/lead/__title/lead__title.css");

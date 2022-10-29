@@ -1,0 +1,11 @@
+@media screen and (max-width: 1152px) {
+  .content__section_padding_lead {
+    padding: 0 48px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .content__section_padding_lead {
+    padding: 0;
+  }
+}
