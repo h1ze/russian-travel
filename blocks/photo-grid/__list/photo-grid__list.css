@@ -3,20 +3,22 @@
   padding: 0;
   list-style: none;
   display: grid;
+  grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   grid-gap: 16px;
-  grid-auto-rows: 1fr;
 }
 
 @media screen and (max-width: 1152px) {
   .photo-grid__list {
-    grid-gap: 14px;
+    grid-row-gap: 10px;
+    grid-column-gap: 14px;
   }
 }
 
 @media screen and (max-width: 984px) {
   .photo-grid__list {
-    grid-gap: 16px;
+    grid-row-gap: 12px;
+    grid-column-gap: 15px;
   }
 }
 

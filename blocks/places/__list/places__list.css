@@ -7,9 +7,15 @@
   gap: 80px;
 }
 
+/* @media screen and (max-width: 1152px) {
+  .places__list {
+    gap: 62px;
+  }
+} */
+
 @media screen and (max-width: 984px) {
   .places__list {
-    gap: 73px;
+    gap: 44px;
   }
 }
 

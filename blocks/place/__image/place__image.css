@@ -3,3 +3,16 @@
   max-width: 460px;
   width: 100%;
 }
+
+@media screen and (max-width: 1152px) {
+  .place__image {
+    max-width: 440px;
+  }
+}
+
+
+@media screen and (max-width: 1152px) {
+  .place__image {
+    max-width: 340px;
+  }
+}
