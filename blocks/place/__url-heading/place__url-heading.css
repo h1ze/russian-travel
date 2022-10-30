@@ -7,3 +7,16 @@
   letter-spacing: 2px;
   color: #aaaaaa;
 }
+
+@media screen and (max-width: 984px) {
+  .place__url-heading {
+    font-size: 12px;
+    line-height: 12px;
+  }
+}
+
+@media screen and (max-width: 564px) {
+  .place__url-heading {
+    padding: 0 16px;
+  }
+}

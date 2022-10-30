@@ -18,9 +18,14 @@
   }
 }
 
-
-@media screen and (max-width: 984px) {
-  .place__paragraph {
+/* @media screen and (max-width: 984px) {
+  .place__paragraph:first-child  {
     margin: 0 0 21px;
+  }
+} */
+
+@media screen and (max-width: 564px) {
+  .place__paragraph {
+    padding: 0 16px;
   }
 }
