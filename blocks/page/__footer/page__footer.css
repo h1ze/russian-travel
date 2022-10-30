@@ -8,3 +8,9 @@
     padding: 0 24px;
   }
 }
+
+@media screen and (max-width: 564px) {
+  .page__footer {
+    padding: 0 16px;
+  }
+}
