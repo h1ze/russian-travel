@@ -1,15 +1,15 @@
 .place__paragraph {
-  margin: 0;
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
   /* or 29px */
   color: #ffffff;
   max-width: 484px;
+  margin: 0 0 24px;
 }
 
-.place__paragraph:first-child {
-  margin: 0 0 24px;
+.place__paragraph:last-child {
+  margin: 0;
 }
 
 @media screen and (max-width: 984px) {
