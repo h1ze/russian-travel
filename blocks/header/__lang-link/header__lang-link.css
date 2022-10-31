@@ -8,6 +8,10 @@
   text-decoration: none;
 }
 
+.header__lang-link:hover {
+  opacity: 0.8;
+}
+
 @media screen and (max-width: 568px) {
   .header__lang-link {
     font-size: 18px;
